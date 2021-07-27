@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.typed_js{
+    background-image: url(./img/boy.jpg);
+    background-size: cover;
+    background-position: center center;
+    height:100vh;
+}
+
+h1{
+   position: relative;
+   top: 280px;
+   left: 80px;
+   font-size: 2.5rem;
+   /* color: #62a6b5; */
+   color: rgb(211, 203, 203);
+}
+span{
+    color: gold;
+}
